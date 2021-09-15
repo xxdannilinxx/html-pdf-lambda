@@ -10,9 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/xxdannilinxx/html-pdf-lambda.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "html",
+    "pdf",
+    "lambda"
+  ],
+  "author": "Danilo Machado",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xxdannilinxx/html-pdf-lambda/issues"
   },
@@ -24,5 +28,8 @@
   },
   "devDependencies": {
     "puppeteer": "^10.2.0"
+  },
+  "directories": {
+    "example": "example"
   }
 }
